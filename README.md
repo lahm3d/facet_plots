@@ -1,2 +1,3 @@
-# facet_plots
-Various FACET Plots
+# FACET Plots 
+
+Various FACET plotting scripts
